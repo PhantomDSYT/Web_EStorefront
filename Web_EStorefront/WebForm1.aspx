@@ -129,14 +129,22 @@
                 <h2 style="font-family:'Times New Roman', Times, serif;">NEW AND NOW</h2> <br />
                 <p>It’s time for a refresh. We’re updating our look with elegant, luxurious styles that are ready for right now and whatever’s next.</p>
             </div>
-            <div class="container">
-                <img class="img-responsive" src="Images/model2.jpg" alt="Chania" width="700" height="600" align="center">
-                <h2 style="font-family:'Times New Roman', Times, serif;">Necklaces</h2>
-                <a class ="btn btn-default " href ="#" role="button">Shop Now</a><br><br>
-               
-                <img class="img-responsive" src="Images/model3.jpg" alt="Chania" width="700" height="600" align="right">
-                <h2 style="font-family:'Times New Roman', Times, serif;">Bracelets & Rings</h2>
-                <a class ="btn btn-default " href ="#" role="button">Shop Now</a>
+            <div class="row">
+                <div class=" container col-md">
+                    <img class="img-responsive" src="Images/model2.jpg" alt="Chania" width="700" height="600" align="center">
+                    <h2 style="font-family:'Times New Roman', Times, serif;">Necklaces</h2>
+                    <a class ="btn btn-default " href ="#" role="button">Shop Now</a><br><br>
+                </div>
+                <div class="container col-md">
+                    <img class="img-responsive" src="Images/model3.jpg" alt="Chania" width="700" height="600" align="right">
+                    <h2 style="font-family:'Times New Roman', Times, serif;">Bracelets & Rings</h2>
+                    <a class ="btn btn-default " href ="#" role="button">Shop Now</a>
+                </div>
+                <div class="container col-md">
+                    <img class="img-responsive" src="Images/model3.jpg" alt="Chania" width="700" height="600" align="right">
+                    <h2 style="font-family:'Times New Roman', Times, serif;">Bracelets & Rings</h2>
+                    <a class ="btn btn-default " href ="#" role="button">Shop Now</a>
+                </div>
             </div>
 </asp:Content>
 
